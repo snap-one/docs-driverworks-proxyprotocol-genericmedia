@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-genericmedia
- Generic Media Player Proxy documentaion
+# Driverworks Proxy/Protocol Guide - genericmedia
+
+Generic Media Player Proxy documentaion
